@@ -1,1 +1,1 @@
-# Caribean_Online_Judge
+# COJ solved problems
