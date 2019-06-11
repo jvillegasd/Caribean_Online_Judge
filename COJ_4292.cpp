@@ -55,7 +55,6 @@ int main(){
     for(int i = 0; i < n; i++) scanf("%lld", &a[i]);
     for(int i = 0; i < k; i++) scanf("%lld", &s[i]);
     sort(a,a+n);
-    sort(s,s+k);
     for(int i = 0; i < k; i++){
         cnt=0,l=0,r=n-1;
         while(l<r){
